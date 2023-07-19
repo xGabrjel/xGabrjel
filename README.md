@@ -33,7 +33,10 @@ I am an ambitious and energetic person, eager to take on new professional challe
   <a href="https://projectlombok.org/" target="_blank" rel="noreferrer"> <img src="https://static1.s123-cdn-static-a.com/uploads/6184336/400_6442785483212.png" alt="Lombok" width="40" height="40"/> </a>
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idD7RfhCFS/id3KSPzOxb.png" alt="JUnit" width="40" height="40"/> </a>
   <a href="https://www.canva.com/pl_pl/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="40" height="40"/> </a>
-</p>
 
+</p>
+  
 ---
-[![](https://visitcount.itsvg.in/api?id=xGabrjel&icon=0&color=3)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=xGabrjel&label=PROFILE+VIEWS)
+
