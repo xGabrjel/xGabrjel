@@ -10,7 +10,7 @@
 
 I am an ambitious and energetic person, eager to take on new professional challenges. I have experience in both military service and the banking sector, which has allowed me to develop a wide range of skills and gain valuable experience. As a former platoon commander, I demonstrated discipline, teamwork and the ability to make quick decisions in high-pressure situations. My meticulous planning and organizational skills are exceptional, allowing me to successfully accomplish goals and objectives.
 
-📝 I’m currently working on HireHub <br>📚 Learning backend development <br>🎯 My current focus is on building robust and secure web applications<br>💼 I have worked in various industries, ranging from the military to the banking sector<br>🏋️‍♀️ I'm passionate about the discipline, dedication, and mental focus required in physical activities<br> 📫 How to reach me: gabriel.luczyszyn@o2.pl<br>
+📝 I’m currently working on: <b>HireHub<b> <br>📚 Learning backend development <br>🎯 My current focus is on building robust and secure web applications<br>💼 I have worked in various industries, ranging from the military to the banking sector<br>🏋️‍♀️ I'm passionate about the discipline, dedication, and mental focus required in physical activities<br> 📫 How to reach me: gabriel.luczyszyn@o2.pl<br>
 
 
 # 💻 Tech Stack:
