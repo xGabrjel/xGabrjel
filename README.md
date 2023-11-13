@@ -1,10 +1,8 @@
-<h1 align="center">
-  <br>
-  <a><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"></a>
-  <br>
-  Hi 👋, I'm Gabriel!
-  <br>
-</h1>
+<div align="center">
+    <img width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer GIF">
+  </div>
+
+  <h1 align="center">Hi 👋, I'm Gabriel!</h1>
 
 # 🧐 About Me
 
