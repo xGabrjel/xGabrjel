@@ -28,7 +28,7 @@ I am an ambitious and energetic person, eager to take on new professional challe
   <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/mockito/images/mockito.png" alt="mockito" width="40" height="40"/> </a>
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> </a>
   <a href="https://plantuml.com/" target="_blank" rel="noreferrer"> <img src="https://www.opennn.net/documentation/images/uml_logo.png" alt="UML" width="40" height="40"/> </a>
-  <a href="https://projectlombok.org/" target="_blank" rel="noreferrer"> <img src="https://static1.s123-cdn-static-a.com/uploads/6184336/400_6442785483212.png" alt="Lombok" width="40" height="40"/> </a>
+  <a href="https://projectlombok.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45949248?s=200&v=4" alt="Lombok" width="40" height="40"/> </a>
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idD7RfhCFS/id3KSPzOxb.png" alt="JUnit" width="40" height="40"/> </a>
   <a href="https://www.canva.com/pl_pl/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="40" height="40"/> </a>
 
